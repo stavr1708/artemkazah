@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	background: url("dollars.png");
+	font-family: 'Style Script', cursive;
+}
+
+.card{
+	width: 400px;
+	margin: 30px auto;
+	padding: 20px;
+	background-color: white;
+	box-shadow: 0 5px 15px mediumvioletred;
+	border-radius: 10px;
+}
+
+.card-photo{
+	display: block;
+	width: 180px;
+	height: 200px;
+	margin: 0 auto;
+	border-radius: 50%;
+}
+
+.card-title{
+	font-size: 20px;
+	text-align: center;
+	color: red;
+}
+
+.card-subtitle{
+	color: indianred;
+}
+
+.card-list{
+	padding-left: 0;
+	list-style-position: inside;
+	font-size: 20px;
+}
+
+.color-star{
+	color: #551379;
+}
+
+.card-text{
+	font-size: 20px;
+	color: seagreen;
+	background-color: black;
+	border-radius: 10px;
+	text-align: center;
+}
